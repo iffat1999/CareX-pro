@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+  "appTitle": "CareX Pro",
+  "@appTitle": {
+    "description": "An AI consultant Health app"
+  }
+}
