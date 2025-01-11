@@ -1,25 +1,22 @@
 {
-  "flutter": {
-    "platforms": {
-      "android": {
-        "default": {
-          "projectId": "carex-pro",
-          "appId": "1:464529683852:android:8b2636d47afea9fd0e12a9",
-          "fileOutput": "android/app/google-services.json"
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "carex-pro-8f40d",
+                    "appId": "1:257044900138:android:d6b84ee452ced795b95653",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/src/firebase_options.dart": {
+                    "projectId": "carex-pro-8f40d",
+                    "configurations": {
+                        "android": "1:257044900138:android:d6b84ee452ced795b95653",
+                        "web": "1:257044900138:web:ba34833a95ec042cb95653"
+                    }
+                }
+            }
         }
-      },
-      "dart": {
-        "lib/firebase_options.dart": {
-          "projectId": "carex-pro",
-          "configurations": {
-            "android": "1:464529683852:android:8b2636d47afea9fd0e12a9",
-            "ios": "1:464529683852:ios:99b1d6de20ac3e470e12a9",
-            "macos": "1:464529683852:ios:99b1d6de20ac3e470e12a9",
-            "web": "1:464529683852:web:f3b103a5f125998f0e12a9",
-            "windows": "1:464529683852:web:3bfaf82e5de8f0a40e12a9"
-          }
-        }
-      }
     }
-  }
 }

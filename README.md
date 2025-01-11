@@ -7,5 +7,3 @@ CareX Pro is an innovative AI health consultant app designed to connect patients
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-ssdhs
